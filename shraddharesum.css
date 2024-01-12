@@ -1,0 +1,32 @@
+.d1,div 
+{
+	height: 1500px;
+	width: 700px;
+	border: 2px solid black;
+    margin-left:300px;    
+}
+
+
+
+ .a1,p{
+	margin-top: 50px;
+	margin-left: 60px;
+    font-size: 15px;
+}
+
+.a2,p{
+
+	margin-top: -15px;
+}
+
+.a3,p{
+	margin-top: 40px;
+	margin-right: 60px;
+
+}
+
+.d2,p{
+
+	margin-top: 0px;
+}
+
